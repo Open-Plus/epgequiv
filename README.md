@@ -1,0 +1,2 @@
+# epgequiv
+equivalencias canales HD
